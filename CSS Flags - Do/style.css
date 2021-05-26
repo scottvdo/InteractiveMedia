@@ -1,0 +1,113 @@
+.flag {
+	display: grid;
+}
+
+.flag-sweden {
+	width: 650px;
+	height: 450px;
+	border: 1px solid black;
+	grid-template-columns: 203.125px 81.25px 365.635px;
+	grid-template-rows: 180px 90px 180px;
+}
+
+.flag-sweden div {
+	border:  0px solid black;
+}
+
+.grid-item-yellow {
+	background-color:  yellow;
+}
+
+.grid-item-blue {
+	background-color:  blue;
+}
+
+.flag-finland {
+	width: 650px;
+	height: 450px;
+	border: 1px solid black;
+	grid-template-columns: 180.55px 108.33px 361.11px;
+	grid-template-rows: 173.07px 103.84px 173.07px;
+}
+
+.flag-finland div {
+	border:  0px solid black;
+}
+
+.grid-item-blue {
+	background-color:  blue;
+}
+
+.grid-item-white {
+	background-color:  white;
+}
+
+.flag-denmark {
+	width: 650px;
+	height: 450px;
+	border: 1px solid black;
+	grid-template-columns: 229.41px 76.47px 344.12px;
+	grid-template-rows: 192.86px 64.28px 192.86px;
+}
+
+.flag-denmark div {
+	border:  0px solid black;
+}
+
+.grid-item-red {
+	background-color:  red;
+}
+
+.grid-item-white {
+	background-color:  white;
+}
+
+.flag-iceland {
+	width: 650px;
+	height: 450px;
+	border: 1px solid black;
+	grid-template-columns: 182px 26px 52px 26px 364px;
+	grid-template-rows: 175px 25px 50px 25px 175px;
+}
+
+.flag-iceland div {
+	border:  0px solid black;
+}
+
+.grid-item-blue {
+	background-color:  blue;
+}
+
+.grid-item-white {
+	background-color:  white;
+}
+
+.grid-item-red {
+	background-color:  red;
+}
+
+.flag-pokeball {
+	width: 650px;
+	height: 450px;
+	border: 1px solid black;
+	grid-template-columns: 270.83px 27.08px 54.16px 27.08px 270.83px;
+	grid-template-rows: 158.82px 26.47px 26.47px 26.47px 26.47px 26.47px 158.82px;
+}
+
+.flag-pokeball div {
+	border:  0px solid black;
+}
+
+.grid-item-red {
+	background-color:  red;
+}
+
+.grid-item-black {
+	background-color:  black;
+}
+
+.grid-item-white {
+	background-color:  white;
+}
+
+
